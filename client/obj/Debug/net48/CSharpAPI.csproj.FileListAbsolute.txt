@@ -1,0 +1,7 @@
+C:\TWS API\source\csharpclient\client\bin\Debug\net48\CSharpAPI.dll
+C:\TWS API\source\csharpclient\client\bin\Debug\net48\CSharpAPI.pdb
+C:\TWS API\source\csharpclient\client\obj\Debug\net48\CSharpAPI.csproj.AssemblyReference.cache
+C:\TWS API\source\csharpclient\client\obj\Debug\net48\CSharpAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\TWS API\source\csharpclient\client\obj\Debug\net48\CSharpAPI.csproj.CoreCompileInputs.cache
+C:\TWS API\source\csharpclient\client\obj\Debug\net48\CSharpAPI.dll
+C:\TWS API\source\csharpclient\client\obj\Debug\net48\CSharpAPI.pdb
